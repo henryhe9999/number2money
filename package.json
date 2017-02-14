@@ -1,0 +1,23 @@
+{
+  "name": "number2money",
+  "version": "1.0.0",
+  "description": "Convert number to money format",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henryhe9999/number2money.git"
+  },
+  "keywords": [
+    "number",
+    "money"
+  ],
+  "author": "Henry He",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henryhe9999/number2money/issues"
+  },
+  "homepage": "https://github.com/henryhe9999/number2money#readme"
+}
